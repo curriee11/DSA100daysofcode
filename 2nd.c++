@@ -9,9 +9,10 @@
 //leetcode
 //
 // https://www.tutorialcup.com/leetcode-solutions/merge-sorted-arrays-leetcode-solution.htm
-
+// question - https://leetcode.com/problems/merge-sorted-array/
 //leetcode solution done by me
 
+// https://leetcode.com/submissions/detail/781002565/
 
 class Solution {
 public:
