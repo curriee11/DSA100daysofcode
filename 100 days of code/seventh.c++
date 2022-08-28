@@ -11,5 +11,6 @@ public:
         return false;
     }
 };
+//try with sorting
 // https://leetcode.com/problems/contains-duplicate/
 // https://leetcode.com/submissions/detail/785591715/
