@@ -1,3 +1,5 @@
+// best to understand generic programming
+//how in function data types not declared but data types are specified in lines of code that instatntiate or use those pieces of reusable code
 // https://www.linkedin.com/learning/c-plus-plus-standard-template-library/generic-programming?autoSkip=true&autoplay=true&resume=false&u=60693444
 
 #include <iostream>
