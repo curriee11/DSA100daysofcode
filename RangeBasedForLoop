@@ -1,0 +1,14 @@
+<--important-->
+https://www.linkedin.com/learning/c-plus-plus-standard-template-library/vectors?autoSkip=true&autoplay=true&resume=false&u=60693444
+<--useful-->
+https://www.youtube.com/watch?v=8qrZYjL2jBg
+https://www.geeksforgeeks.org/range-based-loop-c/
+
+int data[]={1,2,3,4,5,6}
+for(int n:data){
+<-- 
+    t used for tab space   
+    std used when (using namespace std;) not used for items of standard library
+-->
+std::cout<<n<<"\t";
+}
